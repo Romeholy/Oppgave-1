@@ -51,7 +51,7 @@ context.fillStyle = '#fff'
 </body>
 </html>
 
-#oppgave 3
+#oppgave-3
 //usikker om denne kommer til å funngere 
 function formValidation()
 {
@@ -203,3 +203,5 @@ window.location.reload()
 return true;
 }
 }
+
+//nerver mind fant ut at noen av oppgave mine suriveve some how.
